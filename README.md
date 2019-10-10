@@ -3,7 +3,6 @@
 
 
 <p float="left">
-  ## The initial generate image
   <img src="/images/0.png" width="45%" title="The initial generate image"/>
   <img src="/images/1000.png" width="45%" title="Images generate after 1000 epochs"/>
 </p>
